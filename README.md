@@ -1,4 +1,4 @@
-<h1 align="center">Howdie 👋  I'm Sara 🐯</h1>
+<h1 align="center">Howdie, I'm Sara 🐯👋 </h1>
 <h3 align="center">A data enthusiast from Cairo & London 🐪</h3>
 
 - 🔭 I’m currently working on **A recommendation engine using an NLP model**
