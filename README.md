@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Google Analytics for a mobile app**
 
-- 👯 I’m looking to collaborate on **Health Tech, Neuroschience, Quantum Physics**
+- 👯 I’m looking to collaborate on **Health Tech, Neuroscience, Quantum Physics**
 
 - 💬 Ask me about **Data Products**
 
